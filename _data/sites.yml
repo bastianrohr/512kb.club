@@ -2252,6 +2252,12 @@
   size: 25.5
   last_checked: 2022-07-24
 
+- domain: shiver.asia 
+  url: https://shiver.asia/ 
+  size: 2.56
+  last_checked: 2022-12-28
+  Metrics link:  https://gtmetrix.com/reports/shiver.asia/RhESXEHO/
+
 - domain: shom.dev
   url: https://shom.dev/
   size: 37.3
